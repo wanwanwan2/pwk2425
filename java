@@ -1,4 +1,4 @@
-/* java literal 여러가지 값의 형태 출력 공부 */
+/* java literal 여러가지 값의 형태 출력 복습 */
 
 package com.greedy.section01.literal;
 
